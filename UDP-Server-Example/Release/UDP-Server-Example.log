@@ -1,0 +1,9 @@
+﻿  UDP_Server.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+C:\Users\office2\Documents\Ham Radio\Samples\UDP-Server-Example\UDP_Server.cpp(130,27): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\office2\Documents\Ham Radio\Samples\UDP-Server-Example\WSJTX_Packet.h(107): warning C4715: 'WSJTX_Packet::getDefaultTxMessage': not all control paths return a value
+  All 254 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UDP-Server-Example.vcxproj -> C:\Users\office2\Documents\Ham Radio\Samples\UDP-Server-Example\Release\UDP-Server-Example.exe

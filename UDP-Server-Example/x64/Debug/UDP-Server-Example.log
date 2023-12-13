@@ -1,0 +1,13 @@
+﻿  UDP_Server.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+C:\Users\office2\Documents\Ham Radio\Samples\UDP-Server-Example\WSJTX_Packet.h(100,27): warning C4267: 'initializing': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file 'UDP_Server.cpp')
+  
+C:\Users\office2\Documents\Ham Radio\Samples\UDP-Server-Example\UDP_Server.cpp(118,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\office2\Documents\Ham Radio\Samples\UDP-Server-Example\UDP_Server.cpp(123,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\office2\Documents\Ham Radio\Samples\UDP-Server-Example\UDP_Server.cpp(138,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\office2\Documents\Ham Radio\Samples\UDP-Server-Example\UDP_Server.cpp(143,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\office2\Documents\Ham Radio\Samples\UDP-Server-Example\UDP_Server.cpp(148,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\office2\Documents\Ham Radio\Samples\UDP-Server-Example\UDP_Server.cpp(153,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\office2\Documents\Ham Radio\Samples\UDP-Server-Example\WSJTX_Packet.h(107): warning C4715: 'WSJTX_Packet::getDefaultTxMessage': not all control paths return a value
+  UDP-Server-Example.vcxproj -> C:\Users\office2\Documents\Ham Radio\Samples\UDP-Server-Example\x64\Debug\UDP-Server-Example.exe
