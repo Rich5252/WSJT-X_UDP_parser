@@ -5,5 +5,5 @@ UDP server and WSJT-X message parser for C++ VS Studio. This example runs in a c
 
 Adapted from a Python example (https://github.com/rstagers/WSJT-X) and assisted by ChatGPT.
 
-Developed primarily to add to my Arduino DDS transmitter project so that FT8 is supported.
-The plan is to add this to my TX control plugin for the SDRuno SDR.
+Developed primarily to add to my Arduino DDS transmitter project to support FT8 and other protocols.
+The plan is to add this to my TX control plugin for the SDRuno SDR (hence needing a c++ solution).
