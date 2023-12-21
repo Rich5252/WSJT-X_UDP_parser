@@ -7,3 +7,7 @@ Adapted from a Python example (https://github.com/rstagers/WSJT-X) and assisted 
 
 Developed primarily to add to my Arduino DDS transmitter project to support FT8 and other protocols.
 The plan is to add this to my TX control plugin for the SDRuno SDR (hence needing a c++ solution).
+
+See https://github.com/Rich5252/SDRuno_TXlink_WSJT-X for the complete project
+
+73 G4AHN
